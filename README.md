@@ -30,4 +30,4 @@ This project is built entirely on the frontend using React, making it easy to de
 - react icons
 
 ## Live Demo
-Check out the live project here; [Project Link](https://kothameghana510.github.io/Multimodel-data-processing-system/)
+Check out the live project here: [Project Link](https://kothameghana510.github.io/Multimodel-data-processing-system/)
